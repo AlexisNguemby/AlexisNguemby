@@ -1,5 +1,5 @@
 # Bienvenue sur mon profil 👋
-
+![Image de présentation](https://www.monster.co.th/career-advice/wp-content/uploads/2021/11/web-developer-interview-questions-and-answers.jpg)
 - 📫 Contactez-moi sur **alexis.nguemby-mbina@laplateforme.io**
 
 
