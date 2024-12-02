@@ -16,7 +16,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
+
 
 
 ## En apprentissage / perfectionnement
