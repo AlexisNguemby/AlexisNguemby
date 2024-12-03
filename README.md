@@ -1,5 +1,5 @@
 # Welcome to my profile 👋
-![Image de présentation](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D)
+![Image de présentation](https://c4.wallpaperflare.com/wallpaper/349/654/389/500px-landscape-photography-wallpaper-thumb.jpg)
 - 📫 Contactez-moi sur **alexis.nguemby-mbina@laplateforme.io**
 
 
