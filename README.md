@@ -32,9 +32,9 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 
 ## 🚀 Projects
 
-- [**Project 1**](#) – Short description of your project.
-- [**Project 2**](#) – Short description of your project.
-- [**Project 3**](#) – Short description of your project.
+- [**Whatodo**](#) – A native PHP-based To-Do List application where users can create an account, log in, and manage their tasks.
+- [**WhatodoCloud**](#) – WhatodoCloud is a cloud storage API that allows users to upload and retrieve their files securely.
+- [**Whatoshop**](#) – e-shop
 
 ---
 
