@@ -94,16 +94,7 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 
 ---
 
-## 🚀 Pinned Projects
 
-<p align="center">
-  <a href="https://github.com/AlexisNguemby/mon-super-projet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisNguemby&repo=mon-super-projet&theme=radical" />
-  </a>
-  <a href="https://github.com/AlexisNguemby/mon-autre-projet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisNguemby&repo=mon-autre-projet&theme=radical" />
-  </a>
-</p>
 
 ---
 
