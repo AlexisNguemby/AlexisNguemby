@@ -53,7 +53,7 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 *Let's connect and build something amazing together! 🚀*
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alexis+Nguemby-Mbina!;Welcome+to+my+GitHub+profile!;Web+%26+PHP+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://media.tenor.com/1QwQwZ0pniEAAAAC/ashita-no-joe-joe-yabuki.gif" alt="Ashita no Joe eating apple" />
 </p>
 
 <p align="center">
