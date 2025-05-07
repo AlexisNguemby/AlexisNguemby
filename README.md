@@ -1,5 +1,5 @@
 # 👋 Welcome to my GitHub Profile
-![Image de présentation](https://i.pinimg.com/originals/f4/f8/9d/f4f89d477e835ab3413d33618d920420.gif)
+![Ashita no Joe eating apple](https://media.tenor.com/1QwQwZ0pniEAAAAC/ashita-no-joe-joe-yabuki.gif)
 ## 👨‍💻 About Me
 
 Hi! I'm **Alexis Nguemby-Mbina**, a passionate developer currently studying at La Plateforme_.  
