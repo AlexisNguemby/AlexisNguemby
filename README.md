@@ -1,6 +1,5 @@
 # 👋 Welcome to my GitHub Profile
 ![Banner GIF](https://i.pinimg.com/originals/f4/f8/9d/f4f89d477e835ab3413d33618d920420.gif)
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Alexis Nguemby-Mbina**, a passionate developer currently studying at La Plateforme_.  
