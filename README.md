@@ -115,11 +115,7 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/AlexisNguemby/AlexisNguemby/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
