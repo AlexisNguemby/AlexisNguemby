@@ -52,14 +52,7 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 
 *Let's connect and build something amazing together! 🚀*
 <!-- Banner GIF -->
-<p align="center">
-  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1903340/extras/Yearbyyearsheerasesus_v02.gif?t=1746546713" alt="Banner GIF" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1903340/extras/Yearbyyearsheerasesus_v02.gif?t=1746546713
-"/>
-</p>
+![Banner GIF](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1903340/extras/Yearbyyearsheerasesus_v02.gif?t=1746546713)
 ---
 
 <p align="center">
