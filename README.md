@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub Profile
 
-![Banner](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
+![Banner GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 👨‍💻 About Me
 
