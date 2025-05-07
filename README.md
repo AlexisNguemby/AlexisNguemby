@@ -1,6 +1,8 @@
 # 👋 Welcome to my GitHub Profile
 
-![Banner GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f4/f8/9d/f4f89d477e835ab3413d33618d920420.gif" width="100%" alt="Banner GIF" />
+</p>
 
 ## 👨‍💻 About Me
 
