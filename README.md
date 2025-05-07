@@ -57,9 +57,8 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.tenor.com/1QwQwZ0pniEAAAAC/ashita-no-joe-joe-yabuki.gif" alt="Ashita no Joe eating apple" />
 </p>
-
 ---
 
 <p align="center">
