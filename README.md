@@ -53,3 +53,94 @@ I'm interested in web development, Python, and always eager to collaborate on ex
 ---
 
 *Let's connect and build something amazing together! 🚀*
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alexis+Nguemby-Mbina!;Welcome+to+my+GitHub+profile!;Web+%26+Python+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AlexisNguemby&style=flat-square&color=blue" alt="visitor badge"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://github.com/AlexisNguemby"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexis-nguemby-mbina-93691433b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:alexis.nguemby-mbina@laplateforme.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/AlexisNguemby/mon-super-projet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisNguemby&repo=mon-super-projet&theme=radical" />
+  </a>
+  <a href="https://github.com/AlexisNguemby/mon-autre-projet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexisNguemby&repo=mon-autre-projet&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexisNguemby&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisNguemby&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisNguemby&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AlexisNguemby/AlexisNguemby/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Let's connect and build something amazing together! 🚀</b>
+</p>
